@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">0226ScoreCounter</string>
+    <string name="teamA">team A</string>
+    <string name="teamB">team B</string>
+    <string name="scoreA" translatable="false">0</string>
+    <string name="scoreB" translatable="false">0</string>
+    <string name="btn1" translatable="false">+1</string>
+    <string name="btn2" translatable="false">+2</string>
+    <string name="bnt3" translatable="false">+3</string>
+    <string name="undo">undo</string>
+    <string name="reset">reset</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小学生答题</string>
+    <string name="title_msg">欢迎来到小学生口算器</string>
+    <string name="btn_enter">开始答题</string>
+    <string name="btn_submit">提交</string>
+    <string name="high_score">最高分:%d</string>
+    <string name="win_msg">回答正确</string>
+    <string name="btn_back">返回</string>
+    <string name="dialog_msg">确定退出？</string>
+    <string name="dialog_positive_msg">确定</string>
+    <string name="dialog_negative_msg">取消</string>
+    <string name="answer_correct_msg">回答正确</string>
+    <string name="win_score">新纪录:%d</string>
+    <string name="input_ready">请键入你的答案</string>
+    <string name="current_score">你的得分:%d</string>
+    <string name="lose_msg">你输了！</string>
+    <string name="lose_score">你的分数为:%d</string>
+    <string name="title_label">小学生口算</string>
+    <string name="question_label">答题中</string>
+    <string name="win_label">胜利!</string>
+    <string name="lose_label">失败!</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">0226LiveData</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn">+1</string>
+    <string name="btn2">+2</string>
+</resources>

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">0228CalculationTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_msg">Welcome To Calculation</string>
+    <string name="title_img" translatable="false">Title_Image</string>
+    <string name="btn_enter">Start</string>
+    <string name="high_score">High Score:%d</string>
+    <string name="btn1" translatable="false">1</string>
+    <string name="btn2" translatable="false">2</string>
+    <string name="btn3" translatable="false">3</string>
+    <string name="btn4" translatable="false">4</string>
+    <string name="btn5" translatable="false">5</string>
+    <string name="btn6" translatable="false">6</string>
+    <string name="btn7" translatable="false">7</string>
+    <string name="btn8" translatable="false">8</string>
+    <string name="btn9" translatable="false">9</string>
+    <string name="btn0" translatable="false">0</string>
+    <string name="btn_clear" translatable="false">C</string>
+    <string name="btn_submit">Submit</string>
+    <string name="equal" translatable="false">=</string>
+    <string name="unknown" translatable="false">\?</string>
+    <string name="current_score">Score:%d</string>
+    <string name="input_ready">Your Answer</string>
+    <string name="win_image_info" translatable="false">WinImage</string>
+    <string name="lose_image_info" translatable="false">LoseImage</string>
+    <string name="lose_msg">"You Lose !"</string>
+    <string name="lose_score">Lose Sore:%d</string>
+    <string name="win_msg">"You Win !"</string>
+    <string name="win_score">New Record:%d</string>
+    <string name="btn_back">Back</string>
+    <string name="answer_correct_msg">Correct!</string>
+    <string name="dialog_msg">Are You Sure To Quit?</string>
+    <string name="dialog_positive_msg">Yes</string>
+    <string name="dialog_negative_msg">No</string>
+    <string name="title_label">Calculation</string>
+    <string name="win_label">Win</string>
+    <string name="lose_label">Lose</string>
+    <string name="question_label">Question</string>
+</resources>
